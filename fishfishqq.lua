@@ -17,7 +17,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"zoochi_0", "graceneonmagic89","pixelgoldendancer200","julianstealth202261","lionblade2013yt","baconknight200847","pandabytesonic2011","aquamaxpro2019","RealNoraEditsOfficia","MiniAvacreatesstudi0","JaxellaGaming22","pandaezraskates91","Minin0racraftsHQ55","Theech0ethanOfficial","owennova2003yt","cyberduckstealth2016","zoecraft58","abigailmaxecho2015","toxicfusionsonic91","aquawraith200885"},
+        ["Whitelist Username"] = {"Arik6lG9", "Arik6S8","Arik736737","petanimaximal01","petanimaximal02","petanimaximal03","petanimaximal04","aquamaxpro2019","RealNoraEditsOfficia","MiniAvacreatesstudi0","JaxellaGaming22","pandaezraskates91","Minin0racraftsHQ55","Theech0ethanOfficial","owennova2003yt","cyberduckstealth2016","zoecraft58","abigailmaxecho2015","toxicfusionsonic91","aquawraith200885"},
         ["Category Fish"] = {
             "Secret",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
