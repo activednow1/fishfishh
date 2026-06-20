@@ -42,8 +42,9 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
-        ["Auto Element Rod 2"] = true,
         ["Unlock Ancient Ruin"] = true,
+        ["Auto Element Rod"] = true,
+        ["Auto Diamond Rod"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
@@ -53,8 +54,14 @@ _G.FishItConfig = _G.FishItConfig or {
             "Giant Squid",
             "Blob Shark",
             "Ghost Shark",
+            "King Jelly", 
+            "Mosasaur Shark",
+            "Elshark Gran Maja", 
+            "Bone Whale", 
+            "Gladiator Shark", 
+            "Frostborn Shark", 
         },
-        ["FARM_LOC_SECRET_SACRIFICE"] = "Treasure Room",
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
  
         ["Minimum Rod"] = "Astral Rod",
     },
@@ -67,9 +74,14 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Weather"] = {
         ["Auto Buying"] = true,
-        ["Minimum Rod"] = "Midnight Rod",
+        ["Minimum Rod"] = "Ghostfinn Rod",
         ["Weather List"] = {
-            "Wind", "Storm", "Cloudy",
+            "Cloudy",
+            "Wind",
+            "Snow",
+            "Storm",
+            "Shark Hunt",
+            "Radiant",
         },
     },
     ["Potions"] = {
@@ -80,7 +92,9 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
-            ["Luck Totem"] = 5,
+            ["Luck Totem"] = 20,
+            "Mutation Totem",
+            "Shiny Totem",
         },
     },
     ["Event"] = {
@@ -92,17 +106,14 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = true,
+        ["Auto Enchant"] = false,
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
             "Reeler II",
-            "SECRET Hunter",
-            "Shark Hunter",
             "Reeler I",
-            "Leprechaun II",
-            "Mutation Hunter II",
-            "Prismatic I",
+            "Cursed I,",
+            "SECRET Hunter",
         },
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
@@ -113,7 +124,8 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Second Enchant List"] = {
             "Reeler I",
-            "Prismatic I",
+            "Perfection",
+            "Cursed I,",
             "Mutation Hunter II",
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
@@ -141,9 +153,9 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Astral Rod", "Midnight Rod"},
-            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Angler Rod", "Ares Rod"},
+            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Diamond Rod", "Ares Rod"},
         },
-        ["Endgame"] = "Element Rod",
+        ["Endgame"] = "Diamond Rod",
     },
  
     ["ExtremeFpsBoost"] = false,
