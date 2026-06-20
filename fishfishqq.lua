@@ -61,7 +61,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Gladiator Shark", 
             "Frostborn Shark", 
         },
-        ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Sewers",
  
         ["Minimum Rod"] = "Astral Rod",
     },
@@ -153,9 +153,9 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Astral Rod", "Midnight Rod"},
-            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Diamond Rod", "Ares Rod"},
+            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod", "Diamond Rod", "Ares Rod"},
         },
-        ["Endgame"] = "Diamond Rod",
+        ["Endgame"] = "Element Rod",
     },
  
     ["ExtremeFpsBoost"] = false,
