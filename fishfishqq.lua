@@ -28,7 +28,7 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Variant = "Leviathan Rage"}, -- Variant Only
         },
         ["Item Name"] = {
-            "Evolved Enchant Stone", "Candy Enchant Stone",
+            "Evolved Enchant Stone", "Candy Enchant Stone", "Runic Enchant Stone",
         },
     },
     ["Farm Coin Only"] = {
@@ -61,7 +61,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Gladiator Shark", 
             "Frostborn Shark", 
         },
-        ["FARM_LOC_SECRET_SACRIFICE"] = "Sewers",
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
  
         ["Minimum Rod"] = "Astral Rod",
     },
@@ -92,16 +92,16 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
-            ["Luck Totem"] = 20,
-            "Mutation Totem",
+            ["Mutation Totem"] = 20,
+            "Luck Totem",
             "Shiny Totem",
         },
     },
     ["Event"] = {
         ["Start Farm"] = true,
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
-            ["Megalodon Hunt"] = false,
+            ["Megalodon Hunt"] = true,
             ["Ancient Lochness Monster"] = false,
         },
     },
@@ -153,7 +153,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Astral Rod", "Midnight Rod"},
-            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod", "Diamond Rod", "Ares Rod"},
+            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Diamond Rod", "Ares Rod"},
         },
         ["Endgame"] = "Element Rod",
     },
