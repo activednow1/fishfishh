@@ -133,7 +133,6 @@ _G.FishItConfig = _G.FishItConfig or {
             "Bone Whale", 
             "Worm Fish", 
             "Gladiator Shark", 
-            "Gladiator Shark", 
             "Ghost Shark", 
         },
         ["Second Enchant List"] = {
