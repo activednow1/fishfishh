@@ -112,9 +112,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {
-            "Reeler II",
             "Cursed I,",
-            "Reeler I,",
             "SECRET Hunter",
         },
         ["Second Enchant"] = true,
@@ -139,6 +137,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Reeler I",
             "Perfection",
             "Cursed I,",
+            "Mutation Hunter III",
             "Mutation Hunter II",
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
