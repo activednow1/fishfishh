@@ -2,7 +2,16 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Fishing"] = {
         ["Auto Perfect"] = false,
         ["Random Result"] = false,
- 
+
+        ["Auto Favorite"] = true,
+        ["Auto Unfavorite"] = false,
+        ["Fish Name"] = {
+            "Sacred Guardian Squid",
+            {Name = "Ruby", Variant = "Gemstone"},
+            -- {Variant = "Leviathan Rage"}, -- Variant Only
+            -- {Tier = "Secret", Variant = "Leviathan Rage"},  -- Tier + Variant
+        },
+        ["Trade Timeout"] = 90,
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
@@ -64,7 +73,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Gladiator Shark", 
             "Ghost Shark", 
         },
-        ["FARM_LOC_SECRET_SACRIFICE"] = "Sewers",
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
  
         ["Minimum Rod"] = "Astral Rod",
     },
@@ -110,14 +119,13 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = true,
+        ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = true,
+        ["Farm Until Enchant"] = false,
         ["Enchant List"] = {
-            "Cursed I,",
-            "Reeler II,",
-            "Reeler I,",
-            "Shark Hunter,",
+            "Reeler II",
             "SECRET Hunter",
+            "Shark Hunter",
         },
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
@@ -139,7 +147,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Ghost Shark", 
         },
         ["Second Enchant List"] = {
-            "Reeler I",
+            "Perfection",
             "Perfection",
             "Cursed I,",
             "Mutation Hunter III",
@@ -170,7 +178,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod"},
             ["Esoteric Depths"] = {"Astral Rod", "Midnight Rod"},
-            ["Underwater City"] = {"Element Rod", "Ghostfinn Rod", "Diamond Rod", "Ares Rod"},
+            ["Ancient Ruin"] = {"Element Rod", "Ghostfinn Rod", "Diamond Rod", "Ares Rod"},
         },
         ["Endgame"] = "Element Rod",
     },
