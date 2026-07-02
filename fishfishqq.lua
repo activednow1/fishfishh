@@ -147,7 +147,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Ghost Shark", 
         },
         ["Second Enchant List"] = {
-            "Perfection",
+            "Reeler I",
             "Perfection",
             "Cursed I,",
             "Mutation Hunter III",
