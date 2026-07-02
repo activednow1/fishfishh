@@ -19,7 +19,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Enabled"] = true,
         ["Whitelist Username"] = {"petanimaximal04", "petanimaximal05","petanimaximal06","petanimaximal07","petanimaximal08","petanimaximal09","petanimaximal04","aquamaxpro2019","petanimaximal10","petanimaximal11","petanimaximal12","petanimaximal13","petanimaximal14","petanimaximal15","petanimaximal16","petanimaximal17","petanimaximal18","petanimaximal19","petanimaximal20","aquawraith200885"},
         ["Category Fish"] = {
-            "Secret",
+            "Megalodon",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
@@ -28,7 +28,7 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Variant = "Leviathan Rage"}, -- Variant Only
         },
         ["Item Name"] = {
-            "Evolved Enchant Stone", "Candy Enchant Stone", "Runic Enchant Stone",
+            "X", "Candy Enchant Stone", "Runic Enchant Stone",
         },
     },
     ["Farm Coin Only"] = {
