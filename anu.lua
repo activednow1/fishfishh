@@ -10,7 +10,7 @@ local DELTA_CACHE_DIR = "/storage/emulated/0/Delta/Internals/Cache/"
 local LICENSE_FILE = DELTA_CACHE_DIR .. "license"
 
 -- Roblox Auto-Launch Settings (Where the game opens to)
-local ROBLOX_PKG  = "com.roblox.clientu"
+local ROBLOX_PKG  = "com.roblox.clienu"
 local SERVER_LINK = "roblox://placeID=920587237"
 -- ==========================================
 
