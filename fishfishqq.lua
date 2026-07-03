@@ -113,14 +113,14 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Start Farm"] = true,
         ["Minimum Rod"] = "Element Rod",
         ["Event List"] = {
-            ["Megalodon Hunt"] = false,
+            ["Megalodon Hunt"] = true,
             ["Ancient Lochness Monster"] = false,
         },
     },
     ["Enchant"] = {
-        ["Auto Enchant"] = false,
-        ["Roll Enchant"] = false,
-        ["Evolved Roll Enchant"] = false,
+        ["Auto Enchant"] = true,
+        ["Roll Enchant"] = true,
+        ["Evolved Roll Enchant"] = true,
         ["Farm Until Enchant"] = false,
         ["Enchant List"] = {
             "Reeler II",
@@ -128,7 +128,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Cursed I",
             "Shark Hunter",
         },
-        ["Second Enchant"] = true,
+        ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
