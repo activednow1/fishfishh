@@ -128,7 +128,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Cursed I",
             "Shark Hunter",
         },
-        ["Second Enchant"] = false,
+        ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
@@ -151,9 +151,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Ghost Shark", 
         },
         ["Second Enchant List"] = {
-            "Perfection",
-            "Cursed I,",
-            "Mutation Hunter II",
+            "Cursed I",
         },
         ["Minimum Rod"] = "Ghostfinn Rod",
     },
