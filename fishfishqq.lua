@@ -28,11 +28,11 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Enabled"] = true,
         ["Whitelist Username"] = {"petanimaximal04", "petanimaximal05","petanimaximal06","petanimaximal07","petanimaximal08","petanimaximal09","petanimaximal04","aquamaxpro2019","petanimaximal10","petanimaximal11","petanimaximal12","petanimaximal13","petanimaximal14","petanimaximal15","petanimaximal16","petanimaximal17","petanimaximal18","petanimaximal19","petanimaximal20","aquawraith200885"},
         ["Category Fish"] = {
-            "Megalodon",
+            "X",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
-            -- "Sacred Guardian Squid",
+            "Megalodon",
             {Name = "Ruby", Variant = "Gemstone"},
             -- {Variant = "Leviathan Rage"}, -- Variant Only
         },
@@ -121,7 +121,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Enchant"] = true,
         ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = true,
-        ["Farm Until Enchant"] = false,
+        ["Farm Until Enchant"] = true,
         ["Enchant List"] = {
             "Reeler II",
             "SECRET Hunter",
