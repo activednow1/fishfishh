@@ -11,7 +11,7 @@ local LICENSE_FILE = DELTA_CACHE_DIR .. "license"
 
 -- Roblox Auto-Launch Settings (Where the game opens to)
 local ROBLOX_PKG  = "com.roblox.clienu"
-local SERVER_LINK = "roblox://placeID=920587237"
+local SERVER_LINK = "roblox://placeID=121864768012064"
 -- ==========================================
 
 local function logMessage(level, msg)
