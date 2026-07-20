@@ -1,7 +1,7 @@
 -- ==========================================
 -- CONFIGURATION
 local TARGET_TEXT = "https://auth.platorelay.com" 
-local API_KEY = "0a58d5c9-973a-4073-a257-4b3347514b86"
+local API_KEY = "d74194e6-fb26-42a2-b4ee-eed3b9e073f4"
 local API_URL = "https://api.izen.lol/v1/bypass"
 local LOG_FILE = "bypass.log"
 
