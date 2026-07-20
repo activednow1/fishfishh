@@ -26,7 +26,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"petanimaximal04", "petanimaximal05","petanimaximal06","petanimaximal07","petanimaximal08","petanimaximal09","petanimaximal04","aquamaxpro2019","petanimaximal10","petanimaximal11","petanimaximal12","petanimaximal13","petanimaximal14","petanimaximal15","petanimaximal16","petanimaximal17","petanimaximal18","petanimaximal19","petanimaximal20","aquawraith200885"},
+        ["Whitelist Username"] = {"petanimaximal04", "petanimaximal05","petanimaximal06","petanimaximal07","petanimaximal08","petanimaximal09","petanimaximal04","aquamaxpro2019","petanimaximal10","petanimaximal11","petanimaximal12","petanimaximal13","petanimaximal14","petanimaximal15","petanimaximal16","petanimaximal17","petanimaximal18","petanimaximal19","petanimaximal20","petanimaruk001","petanimaruk002","petanimaruk003","petanimaruk004","petanimaruk005","petanimaruk005","petanimaruk006","petanimaruk007","petanimaruk008","petanimaruk009","petanimaruk0010","petanimaruk0011","petanimaruk0012","petanimaruk0013","petanimaruk0014","petanimaruk0015","petanimaruk0016","petanimaruk0017","petanimaruk0018","petanimaruk0019","petanimaruk0020","aquawraith200885"},
         ["Category Fish"] = {
             "X",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
