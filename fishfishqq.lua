@@ -1,6 +1,6 @@
 _G.FishItConfig = _G.FishItConfig or {
     ["Fishing"] = {
-        ["Auto Perfect"] = false,
+        ["Auto Perfect"] = true,
         ["Random Result"] = false,
 
         ["Auto Favorite"] = true,
@@ -11,18 +11,16 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Variant = "Leviathan Rage"}, -- Variant Only
             -- {Tier = "Secret", Variant = "Leviathan Rage"},  -- Tier + Variant
         },
-        ["Trade Timeout"] = 60,
-        ["Auto Favorite"] = true,
-        ["Auto Unfavorite"] = false,
-        ["Fish Name"] = {
-            "Sacred Guardian Squid",
-            {Name = "Ruby", Variant = "Gemstone"},
-            -- {Variant = "Leviathan Rage"}, -- Variant Only
-            -- {Tier = "Secret", Variant = "Leviathan Rage"},  -- Tier + Variant
-        },
- 
+
         ["Auto Accept Trade"] = true,
+	    ["Trade Timeout"] = 50,
         ["Auto Friend Request"] = true,
+
+	    ["Auto Egg Exchange"] = false,
+
+        ["Teleport"] = true,
+        ["Auto Roll Ability"] = false,
+        ["Equip Ability"] = "",
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
