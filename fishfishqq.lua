@@ -32,7 +32,7 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
-            "",
+            "Sacred Guardian Squid",
             {Name = "Ruby", Variant = "Gemstone"},
             -- {Variant = "Leviathan Rage"}, -- Variant Only
         },
