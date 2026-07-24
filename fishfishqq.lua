@@ -32,12 +32,12 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
-            "Sacred Guardian Squid",
+            "",
             {Name = "Ruby", Variant = "Gemstone"},
             -- {Variant = "Leviathan Rage"}, -- Variant Only
         },
         ["Item Name"] = {
-            " ", "Candy Enchant Stone", "Runic Enchant Stone",
+            "Runic Enchant Stone ",
         },
     },
     ["Farm Coin Only"] = {
@@ -46,7 +46,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Selling"] = {
         ["Auto Sell"] = true,
-        ["Auto Sell Threshold"] = "Legendary",
+        ["Auto Sell Threshold"] = "Mythic",
         ["Auto Sell Every"] = 20,
     },
     ["Doing Quest"] = {
