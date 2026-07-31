@@ -48,12 +48,12 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
-        ["Auto Element Rod"] = true,
+        ["Auto Element Rod"] = false,
         ["Auto Element Rod 2"] = false,
         ["Auto Diamond Rod"] = false,
         ["Auto Aetherion Bait"] = false,
         ["Auto Divine Power"] = false,
-        ["Unlock Ancient Ruin"] = false,
+        ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
@@ -65,7 +65,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Gladiator Shark",
             "Elshark Gran Maja",
         },
-        ["FARM_LOC_SECRET_SACRIFICE"] = "Sewers",
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
 
         ["Minimum Rod"] = "Astral Rod",
     },
@@ -124,6 +124,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Cryoshade Glider",
             "Panther Eel",
             "Queen Crab",
+            "Worm Fish",
             "King Crab",
             "Giant Squid",
             "Blob Shark",
@@ -153,9 +154,9 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Location Rods"] = {
             ["Sisyphus Statue"] = {"Starter Rod", "Luck Rod", "Grass Rod"},
-            ["Underwater City"] = {"Midnight Rod", "Astral Rod", "Angler Rod", "Ares Rod", "Ghostfinn Rod", "Element Rod"},
+            ["Ancient Ruin"] = {"Midnight Rod", "Astral Rod", "Angler Rod", "Ares Rod", "Ghostfinn Rod", "Element Rod"},
         },
-        ["Endgame"] = "Element Rod",
+        ["Endgame"] = "Ghostfinn Rod",
     },
 
     ["ExtremeFpsBoost"] = false,
