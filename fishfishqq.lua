@@ -65,7 +65,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Gladiator Shark",
             "Elshark Gran Maja",
         },
-        ["FARM_LOC_SECRET_SACRIFICE"] = "Sewers",
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
 
         ["Minimum Rod"] = "Astral Rod",
     },
@@ -153,7 +153,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Location Rods"] = {
             ["Sisyphus Statue"] = {"Starter Rod", "Luck Rod", "Grass Rod"},
-            ["Underwater City"] = {"Midnight Rod", "Astral Rod", "Angler Rod", "Ares Rod", "Ghostfinn Rod", "Element Rod"},
+            ["Ancient Ruin"] = {"Midnight Rod", "Astral Rod", "Angler Rod", "Ares Rod", "Ghostfinn Rod", "Element Rod"},
         },
         ["Endgame"] = "Element Rod",
     },
