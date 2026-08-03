@@ -34,7 +34,7 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Variant = "Leviathan Rage"}, -- Variant Only
         },
         ["Item Name"] = {
-            "Runic Enchant Stone", "Evolved Enchant Stone",
+            "Runic Enchant Stone", "X",
         },
     },
     ["Farm Coin Only"] = {
@@ -65,7 +65,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Gladiator Shark",
             "Elshark Gran Maja",
         },
-        ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Sewers",
 
         ["Minimum Rod"] = "Astral Rod",
     },
@@ -153,7 +153,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Location Rods"] = {
             ["Sisyphus Statue"] = {"Starter Rod", "Luck Rod", "Grass Rod"},
-            ["Ancient Ruin"] = {"Midnight Rod", "Astral Rod", "Angler Rod", "Ares Rod", "Ghostfinn Rod", "Element Rod"},
+            ["Underwater City"] = {"Midnight Rod", "Astral Rod", "Angler Rod", "Ares Rod", "Ghostfinn Rod", "Element Rod"},
         },
         ["Endgame"] = "Element Rod",
     },
