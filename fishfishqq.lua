@@ -13,7 +13,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
 
         ["Auto Accept Trade"] = true,
-	    ["Trade Timeout"] = 50,
+	    ["Trade Timeout"] = 60,
         ["Auto Friend Request"] = false,
 
 	    ["Auto Egg Exchange"] = false,
