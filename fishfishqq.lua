@@ -26,6 +26,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Enabled"] = true,
         ["Whitelist Username"] = {"petanimarukks01", "petanimarukks02","petanimarukks03","petanimarukks04","petanimarukks05","petanimarukks06","petanimarukks07","petanimarukks08","petanimarukks09","petanimarukks010","petanimarukks011","petanimarukks012","petanimarukks013","petanimarukks014","petanimarukks015","petanimarukks016","petanimarukks017","petanimarukks018","petanimarukks019","petanimarukks020","petanimarukk01","petanimarukk02","petanimarukk03","petanimarukk04","petanimarukk05","petanimarukk06","petanimarukk07","petanimarukk08","petanimarukk09","petanimarukk010","petanimarukk011","petanimarukk012","petanimarukk013","petanimarukk014","petanimarukk015","petanimarukk016","petanimarukk017","petanimarukk018","petanimarukk019","petanimarukk020","petanimaruk0020","aquawraith200885"},
         ["Category Fish"] = {
+            "Secret",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
