@@ -74,7 +74,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Category"] = {
             {Name = "Ruby", Variant = "Gemstone"},
         },
-        ["Item Name"] = {"SAMBO"},
+        ["Item Name"] = {"Runic Enchant Stone"},
         ["Link Webhook"] = "https://discord.com/api/webhooks/1491133041299689677/gLJSCFrnjwnu_G1o0xnxtRCMDCT9hw0lFxPdT1NLwthFeUvfSJN7lSNCso2h-TwkPB7-",
         ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1491133041299689677/gLJSCFrnjwnu_G1o0xnxtRCMDCT9hw0lFxPdT1NLwthFeUvfSJN7lSNCso2h-TwkPB7-",
     },
