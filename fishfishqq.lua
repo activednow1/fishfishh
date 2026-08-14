@@ -49,7 +49,7 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = true,
-        ["Auto Element Rod 2"] = false,
+        ["Auto Element Rod 2"] = true,
         ["Auto Diamond Rod"] = false,
         ["Auto Aetherion Bait"] = false,
         ["Auto Divine Power"] = false,
@@ -99,13 +99,14 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
             ["Mutation Totem"] = 200,
+            "Luck Totem",
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
+        ["Start Farm"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
-            ["Megalodon Hunt"] = false,
+            ["Megalodon Hunt"] = true,
             ["Ancient Lochness Monster"] = false,
             "Megalodon Hunt",
         },
