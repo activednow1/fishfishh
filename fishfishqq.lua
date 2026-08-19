@@ -66,7 +66,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Gladiator Shark",
             "Elshark Gran Maja",
         },
-        ["FARM_LOC_SECRET_SACRIFICE"] = "Sewers",
+        ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
 
         ["Minimum Rod"] = "Astral Rod",
     },
@@ -104,10 +104,10 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = true,
+        ["Start Farm"] = false,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
-            ["Megalodon Hunt"] = true,
+            ["Megalodon Hunt"] = false,
             ["Ancient Lochness Monster"] = false,
             "Megalodon Hunt",
         },
@@ -155,7 +155,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Location Rods"] = {
             ["Sisyphus Statue"] = {"Starter Rod", "Luck Rod", "Grass Rod"},
-            ["Underwater City"] = {"Midnight Rod", "Astral Rod", "Angler Rod", "Ares Rod", "Ghostfinn Rod", "Element Rod"},
+            ["Treasure Room"] = {"Midnight Rod", "Astral Rod", "Angler Rod", "Ares Rod", "Ghostfinn Rod", "Element Rod"},
         },
         ["Endgame"] = "Element Rod",
     },
